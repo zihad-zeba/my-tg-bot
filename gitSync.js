@@ -6,7 +6,7 @@ const readline = require('readline');
 // ================== CONFIG ==================
 const GITHUB_TOKEN = "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"; // আপনার টোকেন
 const USERNAME = "zihad-zeba";
-const REPO = "tg-bot-js";
+const REPO = "my-tg-bot";
 const BRANCH = "main";
 
 const LOCAL_DIR = __dirname;
